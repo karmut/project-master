@@ -1,0 +1,1 @@
+loadPost("http://localhost:3000/posts/?_page=1&_per_page=6")

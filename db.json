@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Minecraft інженерія: вивчаємо світ програмування через ігри",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nostrum facere nobis consectetur iure quia accusamus ullam, eligendi pariatur voluptatum vitae vero atque tempora dolores sapiente voluptate id officia maxime soluta sunt aspernatur corrupti provident. Debitis vel enim deleniti veniam quo, cum incidunt aliquam culpa, quibusdam a explicabo blanditiis corrupti! Nihil omnis itaque similique quos sapiente saepe at incidunt eum corrupti quasi praesentium dolor qui id temporibus dolorem tempora sequi facilis illo, quia, autem repudiandae, soluta molestiae! Neque explicabo modi fugit deserunt. Adipisci fuga quaerat ea libero deleniti harum alias esse, consectetur eveniet aperiam commodi eum enim nulla vel officia!",
+      "creator": "1",
+      "totalComments": "2",
+      "preview": "/img/preview-1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Minecraft інженерія: вивчаємо світ програмування через ігри",
+      "body": "",
+      "creator": "1",
+      "totalComments": "2",
+      "preview": "/img/preview-1.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Minecraft інженерія: вивчаємо світ програмування через ігри",
+      "body": "",
+      "creator": "1",
+      "totalComments": "2",
+      "preview": "/img/preview-1.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Minecraft інженерія: вивчаємо світ програмування через ігри",
+      "body": "",
+      "creator": "1",
+      "totalComments": "2",
+      "preview": "/img/preview-1.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Minecraft інженерія: вивчаємо світ програмування через ігри",
+      "body": "",
+      "creator": "2",
+      "totalComments": "10",
+      "preview": "/img/preview-1.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "fullname": "Misha Savchuk",
+      "username": "@MishaUA",
+      "userImage": "/img/MishaUA.jpg",
+      "password": "mishunka1488"
+    },
+    {
+      "id": "2",
+      "fullname": "Ser Gay",
+      "username": "@SerGay",
+      "userImage": "/img/SerGay.png",
+      "password": "SerGay88"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "creator": "1",
+      "post": "1",
+      "body": "Круто!!"
+    },
+    {
+      "id": "2",
+      "creator": "1",
+      "post": "1",
+      "body": "Автор молодець!"
+    }
+  ]
+}

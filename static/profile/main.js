@@ -1,0 +1,1 @@
+loadPost(`http://localhost:3000/posts/?creator=${document.location.href.slice(document.location.href.lastIndexOf("/") + 1)}&_page=1&_per_page=6`)
